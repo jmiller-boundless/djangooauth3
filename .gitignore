@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#venv
+bin/
+share/
+lib64
+pip-selfcheck.json
+pyvenv.cfg
+
 # Distribution / packaging
 .Python
 build/
